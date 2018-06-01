@@ -1,0 +1,10 @@
+1.git status --查看git工作状态
+2.git log -- 查看git操作日志
+3.git add <filename> --将工作区修改添加到暂存区
+4.git commit -m '修改说明' --将修改提交到本地库
+5.git branch -- 查看所有分支
+6.git branch <name> --创建分支
+7.git checkout <name> --切换到分支
+8.git merge <name> --合并分支
+9.git checkout -b <name> --创建并切换分支
+10.git reflog --未来
